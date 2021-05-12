@@ -37,3 +37,6 @@
 
 6. Task 6 Done [Git scm lab 202](https://www.katacoda.com/aossama/scenarios/git-scm-lab-202) 
   ![image](https://user-images.githubusercontent.com/58164772/118040245-fd7a5680-b379-11eb-8c07-dbe4adb661d6.png)
+  
+## Thank you for watch - bye!
+### @miskorlolx owner
