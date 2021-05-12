@@ -10,10 +10,8 @@ height=48 width=48 alt="Git Logo" />
 
 ### Report
 
-Doing [Homework](../blob/rbykau/README.md)
+Doing [Homework](../rbykau/README.md)
 
 ---
 
-<img
-src="../blob/rbykau/images/End.jpg"
-height=48 width=48 alt="Git Logo" />
+<img src="../rbykau/images/End.jpg" />
