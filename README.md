@@ -43,7 +43,7 @@ Example: Serhei Ivanou - sivanou <br><br>
 Additionally please send e-mail.<br>
 !!! REPORT FORMAT: <br>
 Subject: [MNT-CD-2]-FirstName-LastName<br>
-to: Aliaksadr_mazurenka@epam.com<br>
+to: Aliaksandr_Mazurenka@epam.com<br>
 cc: Iryna<br>
 
 Email should contain link to the file with report in MarkDown format
