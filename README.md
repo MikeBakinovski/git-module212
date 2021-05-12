@@ -1,6 +1,5 @@
 # git-module
 
-43
 
 Task:
 1) Watch Videos <br>
@@ -33,4 +32,16 @@ Task:
 <br>
 <br>
 
-YOUR PROJECT IS HERE!
+Create branch name and place report in Markdown format<br>
+
+useful tip: github markdown language can be used to beatify formatting of text https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet )![image](https://user-images.githubusercontent.com/7789873/117946437-fb7fab80-b317-11eb-8f87-ce6aae7ad7b9.png)
+
+Branch name convention: First char of name + surname of first student <br>
+Example: Serhei Ivanou - sivanou <br><br>
+
+Additionally please send e-mail.<br>
+!!! REPORT FORMAT: <br>
+Subject: [MNT-CD-2]-FirstName-LastName<br>
+to: Aliaksadr_mazurenka@epam.com<br>
+cc: Iryna<br>
+
