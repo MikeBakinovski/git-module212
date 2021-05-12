@@ -26,9 +26,14 @@
   ![Scenario 9 - Re-writing History](https://user-images.githubusercontent.com/58164772/118040100-d15ed580-b379-11eb-8696-9597480d1b7f.png)
 
 3. Task 3 Done [Git scm lab 101](https://www.katacoda.com/aossama/scenarios/git-scm-lab-101)
+  ![image](https://user-images.githubusercontent.com/58164772/118040178-ec314a00-b379-11eb-9078-c530e5a47b1e.png)
+  ![image](https://user-images.githubusercontent.com/58164772/118040193-f0f5fe00-b379-11eb-944b-dc106afaf484.png)
 
 4. Task 4 Done [Git scm lab 102](https://www.katacoda.com/aossama/scenarios/git-scm-lab-102)
-
+  ![image](https://user-images.githubusercontent.com/58164772/118040200-f4898500-b379-11eb-83d5-0744efb81e50.png)
+  
 5. Task 5 Done [Git scm lab 201](https://www.katacoda.com/aossama/scenarios/git-scm-lab-201) 
+  ![image](https://user-images.githubusercontent.com/58164772/118040225-f9e6cf80-b379-11eb-81bd-24346ff6cc0a.png)
 
 6. Task 6 Done [Git scm lab 202](https://www.katacoda.com/aossama/scenarios/git-scm-lab-202) 
+  ![image](https://user-images.githubusercontent.com/58164772/118040245-fd7a5680-b379-11eb-8c07-dbe4adb661d6.png)
