@@ -1,7 +1,6 @@
 ### Hello!
-### This my
-# Home Task
-## Yauhen Mikhalchuk
+# GitHub pass Tutorial
+## by Yauhen Mikhalchuk
 
 1. 1 Task Watch Videos 
   * Done
