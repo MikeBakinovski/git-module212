@@ -2,7 +2,7 @@
 
 
 Task:
-1) Watch Videos <br>
+1) Watch Videos ( Recommended)<br>
   https://videoportal.epam.com/video/9o3xxVRl VCS Concept<br>
   https://videoportal.epam.com/video/Gob552ay Types of VCS<br>
   https://videoportal.epam.com/video/VJwjWDRv Why GIT<br>
@@ -32,7 +32,8 @@ Task:
 <br>
 <br>
 
-Create branch name and place report in Markdown format<br>
+!!! REPORTING:
+Create branch name and place report in Markdown format<br> Report should contain screenshots of completed Katacoda scenarios. <br>
 
 useful tip: github markdown language can be used to beatify formatting of text https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet )![image](https://user-images.githubusercontent.com/7789873/117946437-fb7fab80-b317-11eb-8f87-ce6aae7ad7b9.png)
 
@@ -45,3 +46,4 @@ Subject: [MNT-CD-2]-FirstName-LastName<br>
 to: Aliaksadr_mazurenka@epam.com<br>
 cc: Iryna<br>
 
+Email should contain link to the file with report in MarkDown format
