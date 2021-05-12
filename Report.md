@@ -26,3 +26,5 @@
 6. **Pass practical scenario https://www.katacoda.com/aossama/scenarios/git-scm-lab-202**
 
 ![alt text](https://raw.githubusercontent.com/MNT-Lab/git-module212/avarenik/screenshotss/Lab_202.png "Task 3 git-scm-lab-202")
+
+*On pictures you can see cutted line, it's because of private bookmarks*
