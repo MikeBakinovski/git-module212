@@ -27,4 +27,4 @@
 
 ![alt text](https://raw.githubusercontent.com/MNT-Lab/git-module212/avarenik/screenshotss/Lab_202.png "Task 3 git-scm-lab-202")
 
-*On pictures you can see cutted line, it's because of private bookmarks*
+*On pictures you can see a cutted line, it's because of private bookmarks*
