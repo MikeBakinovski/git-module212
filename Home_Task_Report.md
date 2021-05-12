@@ -6,6 +6,7 @@ done<br/>
 
 ## Task #2 Pass practical course
 [https://www.katacoda.com/courses/git](https://www.katacoda.com/courses/git)
+![done](./Pics/Task2.jpg)
 
 ***
 
