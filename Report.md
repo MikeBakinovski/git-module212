@@ -10,8 +10,12 @@ height=48 width=48 alt="Git Logo" />
 
 ### Report
 
+#### Initial data
+
 Doing [Homework](../rbykau/README.md)
 
 ---
+
+#### Summary
 
 <img src="../rbykau/images/End.jpg" />
