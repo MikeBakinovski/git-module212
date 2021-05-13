@@ -24,6 +24,7 @@ Doing [Homework](../rbykau/README.md)
 ##### Подготовка:
 
 <li> Создание текущей ветки (branch): rbykau </li>
+
 ```
 git clone ssh://github.com/MNT-Lab/git-module212.git
 git checkout -b rbykau
@@ -31,6 +32,7 @@ git push --set-upstream origin rbykau
 ```
 
 <li> Подключение в текущую ветку на др. ПК </li>
+
 ```
 git clone ssh://github.com/MNT-Lab/git-module212.git
 git checkout rbykau
