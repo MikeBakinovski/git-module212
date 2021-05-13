@@ -22,6 +22,9 @@ ___
 ### Task #4 Pass practical scenario 
 [https://www.katacoda.com/aossama/scenarios/git-scm-lab-102](https://www.katacoda.com/aossama/scenarios/git-scm-lab-102)
 
+done
+![done](./Pics/Task4.jpg)
+
 ---
 #### Task #5 Pass practical scenario 
 [https://www.katacoda.com/aossama/scenarios/git-scm-lab-201](https://www.katacoda.com/aossama/scenarios/git-scm-lab-201)
