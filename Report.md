@@ -4,13 +4,16 @@
 
 ## [MNT-Lab](https://github.com/MNT-Lab)/**[git-module212](https://github.com/MNT-Lab/git-module212)**
 
-## Task
+## Task 
 
 **1. Watch Videos ( Recommended)**
-Video course was reviewed complitely. 
+
+Video course was reviewed complitely.
+
 ---
 **2. Pass practical course [https://www.katacoda.com/courses/git](https://www.katacoda.com/courses/git)**
-9 tutorials were passed
+
+9 tutorials were passed successfully
 - Screenshot
 ![alt text](https://github.com/MNT-Lab/git-module212/blob/aserabkou/Screen/5.jpg?raw=true)
 ---
