@@ -15,13 +15,16 @@
 ![lab1](https://github.com/MNT-Lab/git-module212/blob/hsurnovich/screenshots/lab102.bmp "Lab102")
 ![lab1](https://github.com/MNT-Lab/git-module212/blob/hsurnovich/screenshots/lab201.png "Lab201")
 ![lab1](https://github.com/MNT-Lab/git-module212/blob/hsurnovich/screenshots/lab202.png "Lab202")
+
 ---
 
 ### During the passing of the _**GIT**_ course the foollowing materials have been used:
 
 - [Katacoda GIT lections](https://www.katacoda.com/courses/git)
-
+- [Aossama GIT scenarios at Katacoda](https://www.katacoda.com/aossama)
 - **Aliaksandr Mazurenka's theoretical materials and presentation**
+
+---
 
 # **Thanks for your attention!**
 
