@@ -2,7 +2,7 @@
 ---
 ### Here are the results of GIT training practical tasks
 
-(https://github.com/MNT-Lab/git-module212/blob/hsurnovich/screenshots/1.png "First scenario")
+![first](https://github.com/MNT-Lab/git-module212/blob/hsurnovich/screenshots/1.png "First scenario")
 
 ---
 
