@@ -51,10 +51,12 @@ git checkout rbykau
 </p>
 </details>
 
-<details><summary>02. [Learn Git Version Control](https://www.katacoda.com/courses/git) </summary>
+<details><summary>02. Learn Git Version Control </summary>
 <p>
 
 #### Learn Git Version Control:
+
+[Learn Git Version Control](https://www.katacoda.com/courses/git)
 
 В процессе выполнения сценариев были использованы команды (опубликованы без повторов):
 
@@ -181,10 +183,12 @@ git log --oneline
 </p>
 </details>
 
-<details><summary>03. [Git SCM - Lab 101](https://www.katacoda.com/aossama/scenarios/git-scm-lab-101) </summary>
+<details><summary>03. Git SCM - Lab 101 </summary>
 <p>
 
 #### Git SCM - Lab 101:
+
+[Git SCM - Lab 101](https://www.katacoda.com/aossama/scenarios/git-scm-lab-101)
 
 В процессе выполнения сценариев были использованы команды (опубликованы без повторов):
 
@@ -224,10 +228,12 @@ git push -u origin master
 </p>
 </details>
 
-<details><summary>04. [Git SCM - Lab 102](https://www.katacoda.com/aossama/scenarios/git-scm-lab-102) </summary>
+<details><summary>04. Git SCM - Lab 102 </summary>
 <p>
 
 #### Git SCM - Lab 102:
+
+[Git SCM - Lab 102](https://www.katacoda.com/aossama/scenarios/git-scm-lab-102)
 
 В процессе выполнения сценариев были использованы команды:
 
@@ -249,10 +255,12 @@ git pull origin
 </p>
 </details>
 
-<details><summary>05. [Git SCM - Lab 201](https://www.katacoda.com/aossama/scenarios/git-scm-lab-201) </summary>
+<details><summary>05. Git SCM - Lab 201 </summary>
 <p>
 
 #### Git SCM - Lab 201:
+
+[Git SCM - Lab 201](https://www.katacoda.com/aossama/scenarios/git-scm-lab-201)
 
 В процессе выполнения сценариев были использованы команды:
 
@@ -303,10 +311,12 @@ git branch -d my-feature
 </p>
 </details>
 
-<details><summary>06. [Git SCM - Lab 202](https://www.katacoda.com/aossama/scenarios/git-scm-lab-202) </summary>
+<details><summary>06. Git SCM - Lab 202 </summary>
 <p>
 
 #### Git SCM - Lab 202:
+
+[Git SCM - Lab 202](https://www.katacoda.com/aossama/scenarios/git-scm-lab-202)
 
 В процессе выполнения сценариев были использованы команды:
 
