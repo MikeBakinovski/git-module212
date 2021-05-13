@@ -6,12 +6,17 @@ done<br/>
 
 ## Task #2 Pass practical course
 [https://www.katacoda.com/courses/git](https://www.katacoda.com/courses/git)
+
+done
 ![done](./Pics/Task2.jpg)
 
 ***
 
 ### Task #3 Pass practical scenario 
 [https://www.katacoda.com/aossama/scenarios/git-scm-lab-101](https://www.katacoda.com/aossama/scenarios/git-scm-lab-101)
+
+done
+![done](./Pics/Task3.jpg)
 
 ___
 ### Task #4 Pass practical scenario 
