@@ -186,7 +186,7 @@ git log --oneline
 
 [Git SCM - Lab 101](https://www.katacoda.com/aossama/scenarios/git-scm-lab-101)
 
-В процессе выполнения сценариея были использованы команды (опубликованы без повторов):
+В процессе выполнения сценария были использованы команды (опубликованы без повторов):
 
 ```
 git init # Add files README.md  index.html
@@ -229,7 +229,7 @@ git push -u origin master
 
 [Git SCM - Lab 102](https://www.katacoda.com/aossama/scenarios/git-scm-lab-102)
 
-В процессе выполнения сценариея были использованы команды:
+В процессе выполнения сценария были использованы команды:
 
 ```
 git clone https://github.com/aossama/simple-html-app.git
@@ -254,7 +254,7 @@ git pull origin
 
 [Git SCM - Lab 201](https://www.katacoda.com/aossama/scenarios/git-scm-lab-201)
 
-В процессе выполнения сценариея были использованы команды:
+В процессе выполнения сценария были использованы команды:
 
 ```
 git clone http://git.itworx.cloud/Test/simple-html-app.git
@@ -308,7 +308,7 @@ git branch -d my-feature
 
 [Git SCM - Lab 202](https://www.katacoda.com/aossama/scenarios/git-scm-lab-202)
 
-В процессе выполнения сценариея были использованы команды:
+В процессе выполнения сценария были использованы команды:
 
 ```
 # Create new project; add CHANGELOG, LICENSE & CONTRIBUTING.md; add member to project
