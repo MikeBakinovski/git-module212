@@ -1,5 +1,6 @@
 # Yuhen Kaveryn Katacoda scenarios report.md
 
+
 ######  Report Scenario 1 - Committing Files
 ![](images/Scenario_1-CommittingFiles.png)
 
