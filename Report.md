@@ -31,7 +31,7 @@ git checkout -b rbykau
 git push --set-upstream origin rbykau
 ```
 
-<li> Подключение в текущую ветку на др. ПК </li>
+<li> Создание нового подключения к ветке rbykau (например на др. ПК) </li>
 
 ```
 git clone ssh://github.com/MNT-Lab/git-module212.git
