@@ -8,20 +8,20 @@ EPAM<br>
 src="https://github.com/MNT-Lab/git-module212/blob/rbykau/images/git.png"
 height=48 width=48 alt="Git Logo" />
 
-### Report
+---
 
-#### Initial data
+### Исходные данные
 
-Doing [Homework](../rbykau/README.md)
+Задание: [Homework](../rbykau/README.md)
 
 ---
 
-#### Summary
+### Результат
 
 <details><summary>Подготовка</summary>
 <p>
 
-##### Подготовка:
+#### Подготовка:
 
 <li> Создание текущей ветки (branch): rbykau </li>
 
@@ -44,7 +44,7 @@ git checkout rbykau
 <details><summary>01. Просмотр видео</summary>
 <p>
 
-##### Просмотр видео:
+#### Просмотр видео:
 
 Данный материал был пройден в курсе [Version Control with Git](https://elearn.epam.com/courses/course-v1:EPAM+VCG+RU/course/) by Vitali Shulha.
 
@@ -54,7 +54,7 @@ git checkout rbykau
 <details><summary>02. [Learn Git Version Control](https://www.katacoda.com/courses/git)</summary>
 <p>
 
-##### Learn Git Version Control:
+#### Learn Git Version Control:
 
 В процессе выполнения сценариев были использованы команды (опубликованы без повторов):
 
@@ -184,7 +184,7 @@ git log --oneline
 <details><summary>03. [Git SCM - Lab 101](https://www.katacoda.com/aossama/scenarios/git-scm-lab-101)</summary>
 <p>
 
-##### Git SCM - Lab 101:
+#### Git SCM - Lab 101:
 
 В процессе выполнения сценариев были использованы команды (опубликованы без повторов):
 
@@ -227,7 +227,7 @@ git push -u origin master
 <details><summary>04. [Git SCM - Lab 102](https://www.katacoda.com/aossama/scenarios/git-scm-lab-102)</summary>
 <p>
 
-##### Git SCM - Lab 102:
+#### Git SCM - Lab 102:
 
 В процессе выполнения сценариев были использованы команды:
 
@@ -252,7 +252,7 @@ git pull origin
 <details><summary>05. [Git SCM - Lab 201](https://www.katacoda.com/aossama/scenarios/git-scm-lab-201)</summary>
 <p>
 
-##### Git SCM - Lab 201:
+#### Git SCM - Lab 201:
 
 В процессе выполнения сценариев были использованы команды:
 
@@ -306,7 +306,7 @@ git branch -d my-feature
 <details><summary>06. [Git SCM - Lab 202](https://www.katacoda.com/aossama/scenarios/git-scm-lab-202)</summary>
 <p>
 
-##### Git SCM - Lab 202:
+#### Git SCM - Lab 202:
 
 В процессе выполнения сценариев были использованы команды:
 
