@@ -12,11 +12,11 @@ height=48 width=48 alt="Git Logo" />
 
 ### Исходные данные
 
-Задание: [Homework](../rbykau/README.md)
+Основные задачи сформулированы в [задании](../rbykau/README.md).
 
 ---
 
-### Результат
+### Результаты изложены ниже:
 
 <details><summary>Подготовка</summary>
 <p>
