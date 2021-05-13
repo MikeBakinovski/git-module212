@@ -1,7 +1,7 @@
 # Report MNT-Lab/git-module212 (kbukato)
 
 ### Screenshots of completed Katacoda scenarios.
-* git
+* git and some proof that pictures are mine)
 ![](https://github.com/MNT-Lab/git-module212/blob/kbukato/Screenshots/git.PNG) 
 
 * git-scm-lab-101
